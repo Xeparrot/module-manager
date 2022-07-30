@@ -1,1 +1,18 @@
-
+[{
+  "name" : "Blog",
+  "icon": "icon.png",
+  "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ipsum mi, rhoncus scelerisque maximus eget, varius vitae tellus. Donec leo ante, finibus eu massa quis, sagittis laoreet est. Mauris sit amet lorem nec odio rutrum laoreet ut non odio. Duis interdum arcu ac ex porta convallis",
+  "documentation" : "http://localhost:8000/admin/",
+  "repo":"https://github.com/Xeparrot/Blog.git",
+  "author": "Sanjaya Senevirathne",
+  "company_name" : "XeParrot"
+},
+{
+  "name" : "Funny",
+  "icon": "icon.png",
+  "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ipsum mi, rhoncus scelerisque maximus eget, varius vitae tellus. Donec leo ante, finibus eu massa quis, sagittis laoreet est. Mauris sit amet lorem nec odio rutrum laoreet ut non odio. Duis interdum arcu ac ex porta convallis",
+  "documentation" : "http://localhost:8000/admin/",
+  "repo":"https://github.com/Xeparrot/Blog.git",
+  "author": "Sanjaya Senevirathne",
+  "company_name" : "XeParrot"
+}]
